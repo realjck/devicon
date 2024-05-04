@@ -1,3 +1,16 @@
+This fork branch of devicon adds an `iconize/` folder, gathering a copy of each unique icon in a single folder, which can then be used in Obsidian with the Iconize plugin.
+
+```ps
+# Gather all icons in a single folder
+iconize.ps1
+
+# Copy for use with Obsidian Iconize
+cp ./iconize/devicon <your-Obsidian-vault>/.obsidian/icons/
+```
+
+---
+
+
 <p align="center">
     <a href="https://github.com/devicons/devicon/releases">
         <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
