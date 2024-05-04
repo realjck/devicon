@@ -1,6 +1,6 @@
 This fork branch of devicon adds an `iconize/` folder, gathering a copy of each unique icon in a single folder, which can then be used in Obsidian with the Iconize plugin.
 
-```ps
+```bash
 # Gather all icons in a single folder
 iconize.ps1
 
